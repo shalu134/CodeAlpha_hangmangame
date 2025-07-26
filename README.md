@@ -17,13 +17,20 @@ command-line game where the user guesses a randomly selected word one letter at 
 
 # Concepts used
 .Random module
+
 .While loop
+
 .if-else statements
+
 .lists and strings
+
 .User input/output(input() and print()
 
 # How to Run
 1.Make sure you have python installed.
+
 2.Download or clone this repository.
+
 open a terminal in the project directory.
+
 run the following command:
