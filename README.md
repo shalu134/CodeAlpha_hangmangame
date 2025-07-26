@@ -6,9 +6,13 @@ command-line game where the user guesses a randomly selected word one letter at 
 # Hangman Game-CodeAlpha Internship Task 1
 # Features
 .uses a list of 5 predefined tech-related words
+
 .Random word selection using python's module
+
 .Allows up to 6 incorrect guesses
+
 .Console-based interface with clear prompts
+
 .Tracks and displays correct and incorrect guesses
 
 # Concepts used
